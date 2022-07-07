@@ -5,7 +5,7 @@
 
 Thapar Institute of Engineering and Technology COE '24
 
-👀 Research Interests: Deep Learning
+
 
 <img align='right' height='220' style="margin-right:20px" src='assets/programmer.png' alt='Programmer'>
 
