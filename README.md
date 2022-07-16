@@ -45,7 +45,7 @@ Thapar Institute of Engineering and Technology COE '24
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=hardiktreats&show_icons=true&theme=highcontrast" />
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardiktreats&hide=html&layout=compact&theme=highcontrast" />
  
- ![](./profile-3d-contrib/profile-season-animate.svg)
+ ![](./profile-3d-contrib/profile-gitblock.svg)
  
  </details>
 
